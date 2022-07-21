@@ -1,6 +1,13 @@
+http://example.com/2022/07/22/hello/
+http://example.com/2022/07/22/world/
 http://example.com/categories/index.html
-http://example.com/2022/07/19/firt-blog/
-http://example.com/2022/07/19/hello-world/
+http://example.com/tags/index.html
+http://example.com/books/index.html
+http://example.com/about/index.html
+http://example.com/links/index.html
+http://example.com/repository/index.html
+http://example.com/404.html
 http://example.com/
-http://example.com/tags/haha/
-http://example.com/categories/data/
+http://example.com/tags/Testing/
+http://example.com/tags/sf/
+http://example.com/categories/%E5%93%88/
