@@ -1,3 +1,6 @@
+http://example.com/categories/index.html
 http://example.com/2022/07/19/firt-blog/
 http://example.com/2022/07/19/hello-world/
 http://example.com/
+http://example.com/tags/haha/
+http://example.com/categories/data/
