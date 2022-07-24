@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://example.com/2022/07/22/hello/</loc>
+    <loc>http://example.com/2022/07/24/gao/ha/</loc>
+    <lastmod>2022-07-24</lastmod>
+  </url>
+  <url>
+    <loc>http://example.com/2022/07/22/gao/hello/</loc>
     <lastmod>2022-07-21</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2022/07/22/world/</loc>
+    <loc>http://example.com/2022/07/22/gao/world/</loc>
     <lastmod>2022-07-21</lastmod>
   </url>
 </urlset> 
